@@ -1,3 +1,5 @@
+
+<img width="450" height="277" alt="amigo-secreto" src="https://github.com/user-attachments/assets/a1a47ad0-993d-4887-95b0-40cf6985ea97" />
 <h1 align="center"> Amigo Secreto </h1>
 
 Este es un proyecto sencillo en el que se utilizaron JavaScript, CSS y HMTL y fue creado para poder ingresar los nombres de tus amigos y hacer un sorteo aleatorio de uno de ellos para jugar al Amigo Secreto.
@@ -28,4 +30,8 @@ Su uso es muy fácil:
 - Una vez que hayas agregado todos los nombres solo debes hacer clic en el botón "Sortear amigo" para que salga un nombre al azar.
 - Listo, ya tienes sorteados los nombres para que ese "Amigo Secreto" salga espectacular.
 
+
+
+
+[video explicativo] https://github.com/user-attachments/assets/a78512dd-649e-47d2-a540-c56c77765ad7
 
